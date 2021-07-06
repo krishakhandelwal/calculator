@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #2b3252;
+    background-color: #331832
 }
 
 #textField{
@@ -21,7 +21,7 @@ body{
 
 .rowField{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .small,
@@ -37,7 +37,7 @@ body{
 .small:hover,
 .medium:hover,
 .large:hover{
-    background-color: #ef5455
+    background-color: #f0544f
 }
 
 .small{
@@ -45,9 +45,9 @@ body{
 }
 
 .medium{
-    width : 100%
+    width : 50%
 }
 
 .large{
-    width:100%
+    width:60%
 }
